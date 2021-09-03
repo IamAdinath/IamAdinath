@@ -1,4 +1,4 @@
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+/steam/size/:fileId
 - 👋 Hi, I’m @IamAdinath
 - 👀 I’m interested in talking to computers.
 - :school_satchel: Self taught
