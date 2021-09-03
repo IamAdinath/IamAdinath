@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @IamAdinath
 - 👀 I’m interested in talking to computers.
 - :school_satchel: Self taught
-- 🌱 I’m currently learning AI with Python
+- 🌱 I’m currently learning Blockchain
 - :mailbox: - adinathgore.17@gmail.com
 - :iphone: +917758090574
 
