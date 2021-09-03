@@ -1,4 +1,4 @@
-/steam/size/:fileId
+
 - 👋 Hi, I’m @IamAdinath
 - 👀 I’m interested in talking to computers.
 - :school_satchel: Self taught
