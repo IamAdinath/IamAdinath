@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://adinathg.com" target="_blank"><b>Portfolio</b></a> •
   <a href="https://medium.com/@Iam_Adinath" target="_blank"><b>Medium</b></a> •
-  <a href="https://www.linkedin.com/" target="_blank"><b>LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/iamadinath/" target="_blank"><b>LinkedIn</b></a>
 </p>
 
 <br/>
@@ -74,7 +74,7 @@ If you're building something meaningful and need a dependable engineer who can s
 
 - 🌐 Portfolio: https://adinathg.com  
 - ✍️ Medium: https://medium.com/@Iam_Adinath  
-- 💼 LinkedIn: (add your LinkedIn link here)
+- 💼 LinkedIn: https://www.linkedin.com/in/iamadinath/
 
 <br/>
 
